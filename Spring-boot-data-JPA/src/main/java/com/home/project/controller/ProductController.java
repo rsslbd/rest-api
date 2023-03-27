@@ -36,10 +36,8 @@ public class ProductController {
 
         return productRepo.findById(id).get();
     }
-    // end::get-aggregate-root[]
 
 
-//    @PostMapping("/product/save")
     @PostMapping("/product")
     Product newPost(@RequestBody Product product) {
         return productRepo.save(product);
