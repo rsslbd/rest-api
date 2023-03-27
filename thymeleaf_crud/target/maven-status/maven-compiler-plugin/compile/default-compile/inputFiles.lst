@@ -1,0 +1,11 @@
+F:\Spring_project\thymeleaf_crud\src\main\java\com\example\thyml\dto\UserDto.java
+F:\Spring_project\thymeleaf_crud\src\main\java\com\example\thyml\utils\FileUtils.java
+F:\Spring_project\thymeleaf_crud\src\main\java\com\example\thyml\entity\BaseEntity.java
+F:\Spring_project\thymeleaf_crud\src\main\java\com\example\thyml\entity\Admin.java
+F:\Spring_project\thymeleaf_crud\src\main\java\com\example\thyml\entity\Product.java
+F:\Spring_project\thymeleaf_crud\src\main\java\com\example\thyml\entity\User.java
+F:\Spring_project\thymeleaf_crud\src\main\java\com\example\thyml\service\UserServiceImpl.java
+F:\Spring_project\thymeleaf_crud\src\main\java\com\example\thyml\ThymlApplication.java
+F:\Spring_project\thymeleaf_crud\src\main\java\com\example\thyml\controller\UserController.java
+F:\Spring_project\thymeleaf_crud\src\main\java\com\example\thyml\service\UserService.java
+F:\Spring_project\thymeleaf_crud\src\main\java\com\example\thyml\repository\UserRepository.java
